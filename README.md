@@ -7,4 +7,4 @@ properties.
 
 # How to run the project
 
-To run the project, just import the file "P_Imoveis.ipynb" into VS Code, Jupyter Notebook, or an online Python compiler.
+To run the project, just import the file "P_Imoveis.ipynb" into Visual Studio Code, Jupyter Notebook, or an online Python compiler.
